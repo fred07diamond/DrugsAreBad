@@ -11,12 +11,5 @@ Use this [link](https://github.com/fred07diamond/DrugsAreBad) to head over to ou
 This is an open beta IDE with multiple extensions available
 
 Feel Free to add or collaborate on this project and help us further our research and aid. 
-## Members Include... 
 
 [Fred Diamond](https://codepen.io/fred07diamond/full/vbGXyd)
-
-[Eleanor Wikstrom](https://i.kym-cdn.com/photos/images/facebook/001/104/774/107.jpg)
-
-[Thienan Nguyen](https://thumbs.gfycat.com/DeadlyInnocentGerbil-max-1mb.gif)
-
-[Yung Ghao](https://media1.tenor.com/images/67e64fd5995e35de997ce89c9f67f42f/tenor.gif?itemid=6014113https://media1.tenor.com/images/c040440e991727b5824ce194624ac31c/tenor.gif?itemid=5342548)
